@@ -1,10 +1,10 @@
 # Agricultural Market Trade Analysis – Gingee APMc
 
 ## Overview
-Portfolio-ready analysis of the supplied National Agriculture Market (NAM) Gingee Mandi Wise Agreement Type Summary Reports.
+Analysis of the National Agriculture Market (NAM) Gingee Mandi Comoditywise eNam Reports.
 
 **Coverage in the supplied files:** FY 2022-23, FY 2023-24, FY 2024-25 and FY 2025-26.  
-**Important:** four annual PDFs were supplied, not five. The project therefore covers **4 years**
+**Important:** four annual PDFs were supplied.The project therefore covers **4 years**
 
 ## Business Problem
 Turn annual mandi-level agricultural trade reports into a structured analytical dataset and dashboard that makes trade value, traded quantity, commodity mix and year-over-year changes easy to monitor.
